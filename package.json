@@ -2,7 +2,9 @@
   "name": "titancloudai-frontend",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'No build script defined'"
+  "start": "react-scripts start",
+  "build": "react-scripts build"
+}, 
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
